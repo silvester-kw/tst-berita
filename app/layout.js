@@ -3,7 +3,7 @@ import "./global.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "API BERITA VESTER",
+  title: "FISH NEWS",
   description: "Yang Mau Mau Aja",
 };
 
